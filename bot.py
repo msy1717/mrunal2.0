@@ -4,7 +4,7 @@ import logging
 import os
 from os import remove
 
-import requests
+import requests#loda
 from decouple import config
 from telethon import Button, TelegramClient, events
 from telethon.errors.rpcerrorlist import PhotoInvalidDimensionsError
